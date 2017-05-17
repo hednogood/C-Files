@@ -1,0 +1,30 @@
+c:\users\user001\documents\visual studio 2015\Projects\Employee\Employee\bin\Debug\Employee.exe.config
+c:\Users\User001\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\Debug\Employee.exe
+c:\Users\User001\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\Debug\Employee.pdb
+c:\Users\User001\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.Form1.resources
+c:\Users\User001\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.Form2.resources
+c:\Users\User001\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+c:\Users\User001\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+c:\Users\User001\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.exe
+c:\Users\User001\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.pdb
+c:\Users\User001\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\Nashy\Downloads\Employee-20170516T111452Z-001\Employee\bin\Debug\Employee.exe.config
+C:\Users\Nashy\Downloads\Employee-20170516T111452Z-001\Employee\obj\Debug\Employee.exe
+C:\Users\Nashy\Downloads\Employee-20170516T111452Z-001\Employee\obj\Debug\Employee.pdb
+C:\Users\Nashy\Downloads\Employee-20170516T111452Z-001\Employee\bin\Debug\Employee.exe
+C:\Users\Nashy\Downloads\Employee-20170516T111452Z-001\Employee\bin\Debug\Employee.pdb
+C:\Users\Nashy\Downloads\Employee-20170516T111452Z-001\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\Nashy\Downloads\Employee-20170516T111452Z-001\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\Nashy\Downloads\Employee-20170516T111452Z-001\Employee\obj\Debug\Employee.Form2.resources
+C:\Users\Nashy\Downloads\Employee-20170516T111452Z-001\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\Nashy\Downloads\Employee-20170516T111452Z-001\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+C:\Users\mcdsamue\Documents\School Notes\C#\final exam\second draft\Employee\bin\Debug\Employee.exe.config
+C:\Users\mcdsamue\Documents\School Notes\C#\final exam\second draft\Employee\bin\Debug\Employee.exe
+C:\Users\mcdsamue\Documents\School Notes\C#\final exam\second draft\Employee\bin\Debug\Employee.pdb
+C:\Users\mcdsamue\Documents\School Notes\C#\final exam\second draft\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\mcdsamue\Documents\School Notes\C#\final exam\second draft\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\mcdsamue\Documents\School Notes\C#\final exam\second draft\Employee\obj\Debug\Employee.Final_Document.resources
+C:\Users\mcdsamue\Documents\School Notes\C#\final exam\second draft\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\mcdsamue\Documents\School Notes\C#\final exam\second draft\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+C:\Users\mcdsamue\Documents\School Notes\C#\final exam\second draft\Employee\obj\Debug\Employee.exe
+C:\Users\mcdsamue\Documents\School Notes\C#\final exam\second draft\Employee\obj\Debug\Employee.pdb
